@@ -70,6 +70,6 @@ int main(){
 	printBinary(res);
 	cout<<res<<endl;
 }
-}
+
 
 
